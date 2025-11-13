@@ -222,7 +222,7 @@
 
   <div id="footer2-parts">
     <div class="footer2-1-parts">
-      <p><img src="team logo.png" alt="COMPANY"></p>
+      <p><img src="team_logo.png" alt="COMPANY"></p>
       <p>代表メールアドレス：swim exp@outlook.jp お急ぎの方は4yoomori@gmail.com<br>
       受付：基本、メール、または問い合わせフォームでの受付になります</p>
 
