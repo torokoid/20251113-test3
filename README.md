@@ -226,7 +226,7 @@
       <p>代表メールアドレス：swim exp@outlook.jp お急ぎの方は4yoomori@gmail.com<br>
       受付：基本、メール、または問い合わせフォームでの受付になります</p>
 
-      <ul class="sns1-parts">
+       <ul class="sns1-parts">
         <li><a href="#"><i class="fab fa-line"></i></a></li>
         <li><a href="#"><i class="fab fa-youtube"></i></a></li>
         <li><a href="#"><i class="fab fa-instagram"></i></a></li>
