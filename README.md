@@ -3,7 +3,7 @@
 <html lang="ja">
 <head>
 <meta charset="UTF-8">
-<title>SWIM EXPERIENCE HOME PAGE</title>
+<!--<title>SWIM EXPERIENCE HOME PAGE</title>-->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="競泳が速くなりたい選手のためのホームページです">
 <link rel="stylesheet" href="main_style.css"> <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">
@@ -18,7 +18,7 @@
 
 <section class="hero">
   <div class="hero-content"> 
-　<p class="subtitle"><small> Life is tough, keep swimming.～人生は常に大変だ。でも水泳は速く美しく泳ぎたい～</small></p>
+　<p class="subtitle"> Life is tough, keep swimming.～人生は常に大変だ。でも水泳は速く美しく泳ぎたい～</p>
   </div>
   <img src="down.png" alt="プールの底画像" class="hero-bg-image"> </section>
 
@@ -195,15 +195,13 @@
         <h3>お問い合わせ先</h3>
         <h4>
         <form action="mailform.php" method="post">
-
-        <select>お名前:<input type="text" name="name" id="name" required></select>
-　　　　 <select>性別<input type="radio" name="sex" value="男" required>男<input type="radio" name="sex" value="女" required>女</select>
-        <select>メールアドレス:<input type="email" name="email" required></select>
-         <select>依頼される項目:＜①競泳選手傾向診断----------②レース動画解析---------〇スイマー体型お悩み-------〇宇都宮スイムマスターズ連合の活動について-----〇その他＞</select>
-        <select>具体的な悩みごと</select>
-        <select><textarea name="message" cols="50" rows="5" required="required"></textarea></select>
-        <select><input type="submit" value="送信する"></select> 
-             </form>
+　　　　 <p>お名前:<input type="text" name="name" id="name" required></p>
+　　　　 <p>性別<input type="radio" name="sex" value="男" required>男<input type="radio" name="sex" value="女" required>女</p>
+　　　　 <p>メールアドレス:<input type="email" name="email" required></p>
+         <p>依頼される項目<①競泳選手傾向診断----------②レース動画解析---------〇スイマー体型お悩み-------〇宇都宮スイムマスターズ連合の活動について-----〇その他></p>
+　　　　 <p>具体的な悩みごと</p>
+         <p><textarea name="message" cols="50" rows="5" required="required"></textarea></p>
+         <p><input type="submit" value="送信する"></p> </form>
         </h4>
 
   </div>
