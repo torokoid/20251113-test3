@@ -18,7 +18,7 @@
 
 <section class="hero">
   <div class="hero-content"> 
-　<p class="subtitle"><h1> Life is tough, keep swimming.～人生は常に大変だ。でも水泳は速く美しく泳ぎたい～</h1></p>
+　<h2><p class="subtitle"> Life is tough, keep swimming.～人生は常に大変だ。でも水泳は速く美しく泳ぎたい～</p></h2>
   </div>
   <img src="down.png" alt="プールの底画像" class="hero-bg-image"> </section>
 
